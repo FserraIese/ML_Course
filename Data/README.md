@@ -1,6 +1,6 @@
 ## Data Sets
 
-Predciting employee turnover: `turnover.csv`.
+Predicting employee turnover: `turnover.csv`.
 
 Skills requested in Google job posts: `skills_google.csv`.
 
