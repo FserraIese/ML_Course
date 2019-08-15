@@ -1,6 +1,6 @@
 ## Machine Learning Course
 
-* Introduction to Machine Learning	
+* What is Machine Learning?	
 
     + Technical note: What is Machine Learning?
 
@@ -10,9 +10,9 @@
   
 *	Working with data in Python
 
-    + Technical note: [DS-03Py] Working with data in Python
+    + Technical note: Working with data in Python
 
-    + Example: Predicting employees turnover
+    + Example: Predicting employee turnover
   
 * String data analysis
     
