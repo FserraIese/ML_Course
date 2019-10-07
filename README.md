@@ -37,5 +37,30 @@
     + Technical note: Decision trees
   
     + Example: The spam filter
+    
+* Ensemble methods
+
+    + Technical note: Ensemble methods
+
+* Dimensionality reduction
+
+    + Technical note: Dimensionality reduction
+
+    + Example: Handwritten digit recognition
+
+* Clustering
+
+    + Technical note: Clustering
+
+    + Example: Customer segmentation at Instacart
+    
+* Neural networks
+
+    + Technical note: Neural networks
+    
+    + Example: Labeling Zalando pics
+
+* Deep learning
    
+     + Technical note: Deep learning
     
