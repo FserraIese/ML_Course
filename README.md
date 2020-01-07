@@ -30,7 +30,7 @@
 
     + Technical note: Logistic regression
 
-    + Example: The churn model
+    + Example: Churn modeling
 
 * Decision trees
 
