@@ -16,3 +16,5 @@ Customer segmentation at Instacart: `instacart.py`.
 
 Labeling Zalando pics: `zalando.py`.
 
+Labeling Zalando pics - 2nd round: `zalando-2.py`.
+
