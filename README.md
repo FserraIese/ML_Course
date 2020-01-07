@@ -63,4 +63,6 @@
 * Deep learning
    
      + Technical note: Deep learning
+     
+     + Example: Labeling Zalando pics - 2nd round
     
