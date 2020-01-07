@@ -14,7 +14,7 @@
 
     + Example: Predicting employee turnover
   
-* String data analysis
+* Dates and strings in Python
     
     + Technical note: Dates and strings in Python
     
