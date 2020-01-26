@@ -1,4 +1,4 @@
-## Code for note DS-03Py ##
+## Working with data in Python ##
 
 # NumPy arrays #
 import numpy as np
