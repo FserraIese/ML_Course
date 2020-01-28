@@ -10,13 +10,13 @@ The file `airbnb.csv` contains data on the Airbnb listings in New York City: the
 
 2. What is the proportion of listings whose rating is missing? Note that some of the columns of your data frame contain `NaN` values. These values are created every time that `read_csv` finds a missing value in the data file. The corresponding column is imported then as `float`, even if the input data do not have decimals. By applying `isna()` to any Pandas series, you can create a boolean series (`True`/`False`) which can be used to count the missing values.
 
-3. Use a histogram to explore the distribution of the price. Is it useful? Not much, because some very expensive listings distort the whole picture. Can you trim the data, dropping the most expensive listings, to get a better picture?
+3. Use a histogram to explore the distribution of the price. Is it useful? Not much, because some very expensive listings distort the whole picture. How can you trim the data, dropping the most expensive listings, to get a better picture?
 
-4. What is the average price per room type? Given that the distribution of the price is skewed, Is it better to use the median?
+4. What is the average price per room type? Given that the distribution of the price is quite skewed, Is it better to use the median?
 
-5. Explore the variation of median price across neighborhoods through a two-way pivot table.
+5. Explore the variation of median price across neighborhoods using a two-way pivot table.
 
-6. Some of the combination of room type and neighbourhood can have a small number of observations, so these statistics may not be informative. Replace the median price by number of listings in your pivot table, to find which combinations are rare.
+6. Some of the combinations of room type and neighbourhood can have a small number of observations, so these statistics may not be informative. In your pivot table, replace the median price by number of listings, to find the rare combinations.
 
 #### Submission
 
